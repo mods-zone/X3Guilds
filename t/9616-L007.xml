@@ -26,26 +26,19 @@
  <t id="28">\t%s\n\t%s\n\t%s\n</t>
 </page>
 
-<page id="390017" title="Trading System Extension MK2" descr="Text for Trading System Extension MK2 by Cycrow" voice="yes">
- <t id="11743">{17,2773} {13,1376}</t>
- <t id="11744">Торговая система с расширенными возможностями MK2 даст вам возможность использовать собственную спутниковую сеть для поиска товаров во всех уголках Вселенной, а также проверки доступных запасов и цен.</t>
- <t id="11973">{17,2773} {13,1377}</t>
- <t id="11974">Торговая система с расширенными возможностями MK3 обеспечит возможность мониторинга производства конкретного товара во всей вселенной.</t>
-</page>
-
 <page id="392008" title="Trading System Extension MK2" descr="Text for Trading System Extension MK2 by Cycrow" voice="no">
  <t id="9616">COMMAND_CYCROW_TRADESEARCH</t>
  <t id="9617">COMMAND_CYCROW_LOCALANALYSIS</t>
 </page>
 
 <page id="392010" title="Trading System Extension MK2" descr="Text for Trading System Extension MK2 by Cycrow" voice="no">
- <t id="9616">Поиск товара</t>
- <t id="9617">Локальный анализ товара</t>
+ <t id="9616">Поиск товаров</t>
+ <t id="9617">Анализ локальных товаров</t>
 </page>
 
 <page id="392011" title="Trading System Extension MK2" descr="Text for Trading System Extension MK2 by Cycrow" voice="no">
- <t id="9616">Т.Поиск</t>
- <t id="9617">Т.Анализ</t>
+ <t id="9616">W.Search</t>
+ <t id="9617">W.Analysis</t>
 </page>
 
 <page id="392022" title="Trading System Extension MK2" descr="Text for Trading System Extension MK2 by Cycrow" voice="no">
